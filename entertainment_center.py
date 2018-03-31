@@ -10,8 +10,7 @@ def main():
         martian = media.Movie(
             "The Martian",
             "A man is stuck on Mars",
-            "https://upload.wikimedia.org/wikipedia/en/c/cd/",
-            "The_Martian_film_poster.jpg",
+            "https://www.shortto.com/matian",
             "https://www.youtube.com/watch?v=lQqhfq87FgY",
             "October 2, 2015",
             "https://www.youtube.com/watch?v=y62d4vNdq3Q",
@@ -19,8 +18,8 @@ def main():
         Intesteller = media.Movie(
             "Intesteller",
             "Into the Future",
-            "https://www.youtube.com/watch?v=0vxOhd4qlnA",
             "https://www.shortto.com/intesteller",
+            "https://www.youtube.com/watch?v=0vxOhd4qlnA",
             "7 November 2014",
             "https://www.youtube.com/watch?v=vrjPsQYHU1c",
             )
