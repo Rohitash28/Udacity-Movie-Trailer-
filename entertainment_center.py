@@ -18,7 +18,7 @@ def main():
         Intesteller = media.Movie(
             "Intesteller",
             "Into the Future",
-            "https://www.shortto.com/intesteller",
+            "https://www.shortto.com/intes",
             "https://www.youtube.com/watch?v=0vxOhd4qlnA",
             "7 November 2014",
             "https://www.youtube.com/watch?v=vrjPsQYHU1c",
